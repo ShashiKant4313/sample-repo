@@ -24,5 +24,10 @@ public CalcTest(Integer a, Integer b) {
 	this.a = a;
 	this.b = b;
 }
+
+// added new method
+public int add(int a,  int b) {
+	return a + b;
+}
 	
 }
