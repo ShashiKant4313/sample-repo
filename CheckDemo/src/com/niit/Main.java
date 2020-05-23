@@ -10,6 +10,7 @@ public class Main {
 		// new object made for value accessing
 		CalcTest calc = new CalcTest(a, b);
 		
+		//display output
 		System.out.println("Get value of A : " + calc.getA());
 		System.out.println("Get value of B : " + calc.getB());
 		
