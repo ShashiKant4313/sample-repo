@@ -12,8 +12,8 @@ public class Main {
 		CalcTest calc = new CalcTest(a, b);
 		
 		//display output a and b
-		System.out.println("Get value of A : " + calc.getA());
-		System.out.println("Get value of B : " + calc.getB());
+		System.out.println("value of A : " + calc.getA());
+		System.out.println("value of B : " + calc.getB());
 		
 
 	}
